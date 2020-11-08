@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c25574b-b14b-4133-9ab4-ab47c32f0311" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+    <list default="true" id="3c25574b-b14b-4133-9ab4-ab47c32f0311" name="Default Changelist" comment="后台基本功能">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/upload/multiUpload.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/upload/multiUpload.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/upload/singleUpload.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/upload/singleUpload.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/modules/product/category.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/modules/product/category.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,33 +109,70 @@
       <workItem from="1594444330223" duration="218000" />
       <workItem from="1594540445322" duration="169000" />
       <workItem from="1594627763977" duration="739000" />
-      <workItem from="1598064432379" duration="237000" />
+      <workItem from="1598064432379" duration="281000" />
+      <workItem from="1598863566323" duration="192000" />
+      <workItem from="1603616391368" duration="286000" />
+      <workItem from="1603680143431" duration="184000" />
+      <workItem from="1604819957522" duration="984000" />
     </task>
+    <task id="LOCAL-00001" summary="后台基本功能">
+      <created>1598064760482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598064760482</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="后台基本功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="后台基本功能" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1594541390181">
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1604820298131">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1604820015892" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.23.1440.792@0.23.1440.792" timestamp="1604820298131" />
+    <state width="1419" height="342" key="GridCell.Tab.0.bottom" timestamp="1604821065047">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594541390181" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1594541390179">
+    <state width="1419" height="342" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604821065047" />
+    <state width="1419" height="342" key="GridCell.Tab.0.center" timestamp="1604821065046">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594541390179" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1594541390179">
+    <state width="1419" height="342" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604821065046" />
+    <state width="1419" height="342" key="GridCell.Tab.0.left" timestamp="1604821065045">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594541390179" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1594541390180">
+    <state width="1419" height="342" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604821065045" />
+    <state width="1419" height="342" key="GridCell.Tab.0.right" timestamp="1604821065046">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594541390180" />
-    <state x="270" y="89" key="SettingsEditor" timestamp="1591621907548">
+    <state width="1419" height="342" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604821065046" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1598064763286">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="270" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1591621907548" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1598064763286" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1598064517000">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1598064517000" />
   </component>
 </project>
